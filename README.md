@@ -40,7 +40,6 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
 
 # 🚀 I’m Currently Learning:
-# 🚀 I’m Currently Learning:
 
 <table align="center">
   <tr>
@@ -59,8 +58,6 @@
       <br />
       <strong>Deep Learning</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Context Engineering" />
       <br />
