@@ -59,11 +59,6 @@
       <br />
       <strong>Deep Learning</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Agentic AI" />
-      <br />
-      <strong>Agentic AI</strong>
-    </td>
   </tr>
   <tr>
     <td align="center" width="150">
@@ -81,11 +76,5 @@
       <br />
       <strong>Data Analytics</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
-      <br />
-      <strong>Docker</strong>
-    </td>
-    
   </tr>
 </table>
