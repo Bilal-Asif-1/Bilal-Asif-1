@@ -91,10 +91,6 @@
       <br />
       <strong>Docker</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
-      <br />
-      <strong>Linux</strong>
-    </td>
+    
   </tr>
 </table>
