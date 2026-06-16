@@ -41,45 +41,34 @@
 
 # 🚀 I’m Currently Learning:
 
-<p align="center">
-  <kbd>
-    <img src="https://skillicons.dev/icons?i=python" width="45" />
-    <br />
-    Python
-  </kbd>
-  <kbd>
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux" width="130" />
-    <br />
-    Cloud & DevOps
-  </kbd>
-  <kbd>
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="45" />
-    <br />
-    Machine Learning
-  </kbd>
-  <kbd>
-    <img src="https://skillicons.dev/icons?i=pytorch" width="45" />
-    <br />
-    Deep Learning
-  </kbd>
-  <kbd>
-    <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="45" />
-    <br />
-    Agentic AI
-  </kbd>
-  <kbd>
-    <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="45" />
-    <br />
-    Context Engineering
-  </kbd>
-  <kbd>
-    <img src="https://skillicons.dev/icons?i=kafka" width="45" />
-    <br />
-    Data Engineering
-  </kbd>
-  <kbd>
-    <img src="https://img.shields.io/badge/Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" height="45" />
-    <br />
-    Data Analytics
-  </kbd>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
+      <br />
+      <strong>Python</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Cloud and DevOps" />
+      <br />
+      <strong>Cloud & DevOps</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="Machine Learning" />
+      <br />
+      <strong>Machine Learning</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="Deep Learning" />
+      <br />
+      <strong>Deep Learning</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Agentic AI" />
+      <br />
+      <strong>Agentic AI</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="
