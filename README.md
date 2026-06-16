@@ -40,6 +40,8 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
 
 # 🚀 I’m Currently Learning:
+# 🚀 I’m Currently Learning:
+
 <p align="center">
   <img height="36" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img height="36" src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0EA5E9?style=flat&logo=icloud&logoColor=white" alt="Cloud and DevOps" />
