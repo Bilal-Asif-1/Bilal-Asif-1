@@ -1,3 +1,5 @@
+<div align="center" style="pointer-events: none; cursor: default; user-select: none;">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FDBA74&center=true&vCenter=true&width=700&repeat=false&lines=Hi+There%2C+I+am+Bilal+Asif" alt="Hi There, I am Bilal Asif" />
 </p>
@@ -70,3 +72,5 @@
     </td>
   </tr>
 </table>
+
+</div>
