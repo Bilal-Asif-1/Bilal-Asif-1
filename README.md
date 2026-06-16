@@ -40,35 +40,61 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
 
 # 🚀 I’m Currently Learning:
+# 🚀 I’m Currently Learning:
 
 <table align="center">
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
       <br />
       <strong>Python</strong>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Cloud and DevOps" />
       <br />
       <strong>Cloud & DevOps</strong>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="Machine Learning" />
       <br />
       <strong>Machine Learning</strong>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="Deep Learning" />
       <br />
       <strong>Deep Learning</strong>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Agentic AI" />
       <br />
       <strong>Agentic AI</strong>
     </td>
-    <td align="center" width="160">
-      <img src="
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Context Engineering" />
+      <br />
+      <strong>Context Engineering</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Data Engineering" />
+      <br />
+      <strong>Data Engineering</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" height="35" alt="Data Analytics" />
+      <br />
+      <strong>Data Analytics</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
+      <br />
+      <strong>Docker</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+      <br />
+      <strong>Linux</strong>
+    </td>
+  </tr>
+</table>
