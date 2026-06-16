@@ -67,11 +67,5 @@
       <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Data Engineering" />
       <br />
       <strong>Data Engineering</strong>
-    </td>
-    <td align="center" width="150" style="border: 1px solid white;">
-      <img src="https://img.shields.io/badge/BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" height="35" alt="Data Analytics" />
-      <br />
-      <strong>Data Analytics</strong>
-    </td>
   </tr>
 </table>
