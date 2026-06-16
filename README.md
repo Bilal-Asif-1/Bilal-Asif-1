@@ -38,8 +38,51 @@
 ![SDLC](https://img.shields.io/badge/SDLC-475569?style=for-the-badge)
 ![Code Review](https://img.shields.io/badge/Code_Review-0F172A?style=for-the-badge)
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bilal-Asif-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📊 Engineering Strengths:
+
+<table>
+  <tr>
+    <td><strong>React.js</strong></td>
+    <td><img src="https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="React.js 90%" /></td>
+    <td><strong>Excellent</strong></td>
+  </tr>
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td><img src="https://geps.dev/progress/88?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="TypeScript 88%" /></td>
+    <td><strong>Excellent</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Node.js / Express.js</strong></td>
+    <td><img src="https://geps.dev/progress/87?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Node.js and Express.js 87%" /></td>
+    <td><strong>Excellent</strong></td>
+  </tr>
+  <tr>
+    <td><strong>REST APIs</strong></td>
+    <td><img src="https://geps.dev/progress/90?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="REST APIs 90%" /></td>
+    <td><strong>Excellent</strong></td>
+  </tr>
+  <tr>
+    <td><strong>MongoDB / MySQL</strong></td>
+    <td><img src="https://geps.dev/progress/82?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Databases 82%" /></td>
+    <td><strong>Experienced</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Authentication / RBAC</strong></td>
+    <td><img src="https://geps.dev/progress/85?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Authentication and RBAC 85%" /></td>
+    <td><strong>Experienced</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Middleware / Validation</strong></td>
+    <td><img src="https://geps.dev/progress/84?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Middleware and Validation 84%" /></td>
+    <td><strong>Experienced</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Socket.IO / Real-Time Apps</strong></td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Socket.IO 80%" /></td>
+    <td><strong>Experienced</strong></td>
+  </tr>
+</table>
 
 
 
