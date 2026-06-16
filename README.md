@@ -45,11 +45,6 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
-      <br />
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Cloud and DevOps" />
       <br />
       <strong>Cloud & DevOps</strong>
