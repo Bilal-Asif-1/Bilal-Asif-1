@@ -1,5 +1,3 @@
-## 🌐 Socials:
-
 <p align="center">
   <a href="mailto:bilalasif1024@gmail.com">
     <img src="https://img.shields.io/badge/Email-bilalasif1024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -10,11 +8,7 @@
   <a href="https://www.instagram.com/bilal.asif__/">
     <img src="https://img.shields.io/badge/Instagram-bilal.asif__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/Bilal-Asif-1">
-    <img src="https://img.shields.io/badge/GitHub-Bilal--Asif--1-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
-
 # 💻 Tech Stack & Engineering Skills:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
