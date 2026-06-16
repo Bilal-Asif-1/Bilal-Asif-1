@@ -41,14 +41,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bilal-Asif-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 GitHub Achievements:
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bilal-Asif-1&theme=tokyonight" alt="Bilal Asif total contributions graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Asif-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bilal Asif top languages" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
