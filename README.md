@@ -41,37 +41,42 @@
 
 # 🚀 I’m Currently Learning:
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="150" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Cloud and DevOps" />
-      <br />
-      <strong>Cloud & DevOps</strong>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="Machine Learning" />
-      <br />
-      <strong>Machine Learning</strong>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="Deep Learning" />
-      <br />
-      <strong>Deep Learning</strong>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Context Engineering" />
-      <br />
-      <strong>Context Engineering</strong>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Data Engineering" />
-      <br />
-      <strong>Data Engineering</strong>
-    </td>
-    <td align="center" width="150" style="border: none;">
-      <img src="https://img.shields.io/badge/BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" height="35" alt="Data Analytics" />
-      <br />
-      <strong>Data Analytics</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=aws" width="70" height="70" alt="Cloud and DevOps" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="70" height="70" alt="Machine Learning" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="70" height="70" alt="Deep Learning" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="45" alt="Context Engineering" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=kafka" width="70" height="70" alt="Data Engineering" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" height="45" alt="Data Analytics" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Cloud & DevOps</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Machine Learning</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Deep Learning</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Context Engineering</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Data Engineering</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Data Analytics</strong>
+</p>
