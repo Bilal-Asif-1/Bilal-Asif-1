@@ -38,3 +38,19 @@
 ![SDLC](https://img.shields.io/badge/SDLC-475569?style=for-the-badge)
 ![Code Review](https://img.shields.io/badge/Code_Review-0F172A?style=for-the-badge)
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
+
+# 🚀 I’m Currently Learning:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Currently%20Learning-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud-Exploring-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/Docker-Exploring-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-Exploring-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Learning-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Context%20Engineering-Learning-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Context Engineering" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Learning-2563EB?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Data Analytics" />
+</p>
