@@ -39,8 +39,6 @@
 ![Code Review](https://img.shields.io/badge/Code_Review-0F172A?style=for-the-badge)
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bilal-Asif-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bilal-Asif-1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bilal-Asif-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 GitHub Achievements:
