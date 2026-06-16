@@ -40,7 +40,7 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Currently+Learning" alt="Currently Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Currently+Learning" alt="Currently Learning" />
 </p>
 <table align="center" style="border: 1px solid white;">
   <tr style="border: 1px solid white;">
