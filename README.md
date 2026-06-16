@@ -17,30 +17,40 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FB923C&center=true&vCenter=true&width=700&repeat=false&lines=Tech+Stack+%26+Engineering+Skills" alt="Tech Stack and Engineering Skills" />
 </p>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/State_Management-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_Architecture-334155?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-2563EB?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-2563EB?style=for-the-badge)
+<table align="center">
+  <tr>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" /><br><strong>JavaScript</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" /><br><strong>TypeScript</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" /><br><strong>Node.js</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/react/61DAFB" width="28" /><br><strong>React.js</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="28" /><br><strong>Express.js</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/fastify/FFFFFF" width="28" /><br><strong>Fastify</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="28" /><br><strong>MySQL</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/redux/764ABC" width="28" /><br><strong>Redux Toolkit</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" /><br><strong>Tailwind CSS</strong></td>
+    <td align="center" width="150">⚙️<br><strong>REST APIs</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="28" /><br><strong>WebSockets</strong></td>
+    <td align="center" width="150">🏗️<br><strong>MVC</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="150">🔌<br><strong>API Integration</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="28" /><br><strong>MongoDB</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="28" /><br><strong>JWT Auth</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/docker/2496ED" width="28" /><br><strong>Docker</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/amazonec2/FF9900" width="28" /><br><strong>AWS EC2</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/nginx/009639" width="28" /><br><strong>Nginx</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/pnpm/F69220" width="28" /><br><strong>pnpm</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" /><br><strong>CI/CD</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" /><br><strong>GitHub</strong></td>
+    <td align="center" width="150"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="28" /><br><strong>Postman</strong></td>
+    <td align="center" width="150">🔁<br><strong>Agile/Scrum</strong></td>
+    <td align="center" width="150">📚<br><strong>SDLC</strong></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=420&repeat=false&lines=Currently+Learning" alt="Currently Learning" />
