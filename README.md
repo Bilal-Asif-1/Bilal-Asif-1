@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-bilal.asif__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-# 💻 Tech Stack & Engineering Skills:
+# <H1>💻 Tech Stack & Engineering Skills:</H1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
