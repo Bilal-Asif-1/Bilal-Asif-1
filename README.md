@@ -48,29 +48,30 @@
 </p>
 <table align="center" style="border: 1px solid white;">
   <tr style="border: 1px solid white;">
-    <td align="center" width="150" style="border: 1px solid white;">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="Cloud and DevOps" />
+    <td align="center" width="135" style="border: 1px solid white;">
+      <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" alt="Cloud and DevOps" />
       <br />
       <strong>Cloud & DevOps</strong>
     </td>
-    <td align="center" width="150" style="border: 1px solid white;">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="Machine Learning" />
+    <td align="center" width="135" style="border: 1px solid white;">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="42" height="42" alt="Machine Learning" />
       <br />
       <strong>Machine Learning</strong>
     </td>
-    <td align="center" width="150" style="border: 1px solid white;">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="Deep Learning" />
+    <td align="center" width="135" style="border: 1px solid white;">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="42" height="42" alt="Deep Learning" />
       <br />
       <strong>Deep Learning</strong>
     </td>
-    <td align="center" width="150" style="border: 1px solid white;">
-      <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Context Engineering" />
+    <td align="center" width="135" style="border: 1px solid white;">
+      <img src="https://img.shields.io/badge/Context-111827?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="Context Engineering" />
       <br />
       <strong>Context Engineering</strong>
     </td>
-    <td align="center" width="150" style="border: 1px solid white;">
-      <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Data Engineering" />
+    <td align="center" width="135" style="border: 1px solid white;">
+      <img src="https://skillicons.dev/icons?i=kafka" width="42" height="42" alt="Data Engineering" />
       <br />
       <strong>Data Engineering</strong>
+    </td>
   </tr>
 </table>
