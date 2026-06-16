@@ -1,12 +1,23 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=5000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There%2C+I+am+Bilal+Asif" alt="Hi There, I am Bilal Asif" />
+</p>
+
+<p align="center">
+  <strong>Full-Stack Developer | MERN Stack | TypeScript | Software Engineering</strong>
+</p>
+
+<p align="center">
   <a href="mailto:bilalasif1024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bilalasif1024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/bilal-asif-034272320">
-    <img src="https://img.shields.io/badge/LinkedIn-Bilal%20Asif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bilal.asif__/">
-    <img src="https://img.shields.io/badge/Instagram-bilal.asif__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Bilal-Asif-1">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
