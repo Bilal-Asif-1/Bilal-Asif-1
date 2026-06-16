@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=5000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There%2C+I+am+Bilal+Asif" alt="Hi There, I am Bilal Asif" />
-</p>
-
-<p align="center">
-  <strong>Full-Stack Developer | MERN Stack | TypeScript | Software Engineering</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=5000&color=FFEA00&center=true&vCenter=true&width=700&lines=Hi+There%2C+I+am+Bilal+Asif" alt="Hi There, I am Bilal Asif" />
 </p>
 
 <p align="center">
