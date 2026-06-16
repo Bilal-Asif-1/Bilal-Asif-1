@@ -40,13 +40,14 @@
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-64748B?style=for-the-badge)
 
 # 🚀 I’m Currently Learning:
+
 <p align="center">
-  <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img height="36" src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0EA5E9?style=flat&logo=icloud&logoColor=white" alt="Cloud and DevOps" />
-  <img height="36" src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
-  <img height="36" src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="Deep Learning" />
-  <img height="36" src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img height="36" src="https://img.shields.io/badge/Context%20Engineering-111827?style=flat&logo=openai&logoColor=white" alt="Context Engineering" />
-  <img height="36" src="https://img.shields.io/badge/Data%20Engineering-2563EB?style=flat&logo=apacheairflow&logoColor=white" alt="Data Engineering" />
-  <img height="36" src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=flat&logo=powerbi&logoColor=111827" alt="Data Analytics" />
+  <img height="70" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img height="70" src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0EA5E9?style=flat&logo=icloud&logoColor=white" alt="Cloud and DevOps" />
+  <img height="70" src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
+  <img height="70" src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img height="70" src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img height="70" src="https://img.shields.io/badge/Context%20Engineering-111827?style=flat&logo=openai&logoColor=white" alt="Context Engineering" />
+  <img height="70" src="https://img.shields.io/badge/Data%20Engineering-2563EB?style=flat&logo=apacheairflow&logoColor=white" alt="Data Engineering" />
+  <img height="70" src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=flat&logo=powerbi&logoColor=111827" alt="Data Analytics" />
 </p>
