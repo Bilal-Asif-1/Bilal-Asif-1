@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FDBA74&center=true&vCenter=true&width=700&repeat=false&lines=Hi+There%2C+I+am+Bilal+Asif" alt="Hi There, I am Bilal Asif" />
+  <img src="./assets/intro-heading.svg" alt="Hi There, I am Bilal Asif" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-2563EB?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-475569?style=for-the-badge)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=500&repeat=false&lines=Currently+Learning" alt="Currently Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=420&repeat=false&lines=Currently+Learning" alt="Currently Learning" />
 </p>
 <table align="center" style="border: 1px solid white;">
   <tr style="border: 1px solid white;">
