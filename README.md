@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/intro-heading.svg" alt="Hi There, I am Bilal Asif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1200&pause=300&color=FDBA74&center=true&vCenter=true&width=700&lines=Hi+There%2C+I+am+Bilal+Asif;Hi+There%2C+I+am+Bilal+Asif;Hi+There%2C+I+am+Bilal+Asif" alt="Hi There, I am Bilal Asif" />
 </p>
 
 <p align="center">
