@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
+<p align="center">
+<a href="https://github.com/Bilal-Asif-1">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&repeat=false&lines=Hi+There%2C+I+am+Bilal+Asif" alt="Hi there, I am Bilal Asif" />
+</a>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&repeat=false&lines=Tech+Stack+%26+Engineering+Skills" alt="Tech Stack and Engineering Skills" />
